@@ -26,4 +26,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/frameh_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/hugodmorais/frameh_view_tool.
