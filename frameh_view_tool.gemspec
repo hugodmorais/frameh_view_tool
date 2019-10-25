@@ -11,7 +11,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Specific view and methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails app.}
-  spec.homepage      = "www.linkedin.com/in/hugo-morais"
+  spec.homepage      = "www.devcamp.com"
+  spec.license       = "MIT"
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
     `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   end
